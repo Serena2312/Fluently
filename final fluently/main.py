@@ -402,7 +402,7 @@ class Fluently(tk.Tk):
         center = tk.Frame(s, bg=BG)
         center.place(relx=0.5, rely=0.5, anchor="center")
 
-        tk.Label(center, text="Rejoindre LinguaQuest",
+        tk.Label(center, text="Rejoindre Fluently",
                  font=("Georgia", 26, "bold"), bg=BG, fg=TEXT).pack(pady=(0, 4))
         tk.Label(center, text="Creez votre compte gratuitement",
                  font=("Courier New", 10), bg=BG, fg=MUTED).pack(pady=(0, 20))
@@ -476,7 +476,7 @@ class Fluently(tk.Tk):
         header = tk.Frame(s, bg=CARD, pady=12)
         header.pack(fill="x")
 
-        tk.Label(header, text="LINGUA QUEST",
+        tk.Label(header, text="Fluently",
                  font=("Georgia", 16, "bold italic"), bg=CARD, fg=ACCENT2).pack(side="left", padx=20)
 
         StyledButton(header, text="Deconnexion",
