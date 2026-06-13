@@ -1,0 +1,17 @@
+{
+  "serena": {
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "created_at": "13/06/2026",
+    "high_score": 425,
+    "total_games": 1,
+    "total_wins": 1,
+    "total_points": 425,
+    "comments": [
+      {
+        "text": "super jeu !!!",
+        "date": "2026-06-13 09:40",
+        "rating": 5
+      }
+    ]
+  }
+}
